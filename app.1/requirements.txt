@@ -1,0 +1,5 @@
+# 项目依赖包
+fastapi==0.104.1           # Web框架，支持WebSocket和HTTP
+uvicorn[standard]==0.40.0  # ASGI服务器
+websockets==16.0           # WebSocket支持
+sqlalchemy==2.0.46      # 数据库ORM
